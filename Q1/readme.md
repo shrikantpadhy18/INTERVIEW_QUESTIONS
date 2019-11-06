@@ -1,0 +1,3 @@
+This question was asked by microsoft
+
+There are N colours into which a chameleon can change into. There is a Matrix of size N x N where for each element i x j in the matrix if the element is equal to 1 then the Chameleon can change from colour i to colour j otherwise the Chameleon cannot change from colour i to colour j. Currently, the Chameleon is in colour X and it wishes to change into Colour Y. Find the minimum number of colours it needs to change to be in Color Y.
