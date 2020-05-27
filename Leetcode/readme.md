@@ -13,3 +13,8 @@ Longest palindromic Substring: Given a string s, find the longest palindromic su
 <a href="https://leetcode.com/problems/longest-palindromic-substring/">PROBLEM LINK</a>
 <hr>
 <br>
+
+ Longest Substring Without Repeating Characters: Given a string, find the length of the longest substring without repeating characters.
+ <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">PROBLEM LINK</a>
+<hr>
+<br>
