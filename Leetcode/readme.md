@@ -21,3 +21,8 @@ Longest palindromic Substring: Given a string s, find the longest palindromic su
 
 Longest Valid Parentheses :Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
 <a href="https://leetcode.com/problems/longest-valid-parentheses/">PROBLEM LINK</a>
+
+<hr>
+<br>
+3SUM CLOSEST : Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution.
+<a href="https://leetcode.com/problems/3sum-closest/">problem link</a>
