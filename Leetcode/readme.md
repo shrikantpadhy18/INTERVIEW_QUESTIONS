@@ -26,3 +26,10 @@ Longest Valid Parentheses :Given a string containing just the characters '(' and
 <br>
 3SUM CLOSEST : Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution.
 <a href="https://leetcode.com/problems/3sum-closest/">problem link</a>
+<hr>
+<br>
+Minimum Path Sum:Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right which minimizes the sum of all numbers along its path.
+
+Note: You can only move either down or right at any point in time.
+<a href="https://leetcode.com/problems/minimum-path-sum/">Problem Link</a>
+
