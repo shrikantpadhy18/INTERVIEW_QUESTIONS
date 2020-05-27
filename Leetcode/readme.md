@@ -2,6 +2,4 @@ MaxGap:Given an unsorted array, find the maximum difference between the successi
 
 Return 0 if the array contains less than 2 elements.
 <a href="https://leetcode.com/problems/maximum-gap/">PROBLEM LINK</a>
-<html>
-&nbsp FINISH &nbsp
-</html>
+<hr>
