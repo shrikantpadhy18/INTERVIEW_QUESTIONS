@@ -18,3 +18,6 @@ Longest palindromic Substring: Given a string s, find the longest palindromic su
  <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">PROBLEM LINK</a>
 <hr>
 <br>
+
+Longest Valid Parentheses :Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+<a href="https://leetcode.com/problems/longest-valid-parentheses/">PROBLEM LINK</a>
