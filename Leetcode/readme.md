@@ -57,3 +57,58 @@ Input:
 <br>
 Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 <a href="https://leetcode.com/problems/spiral-matrix/">PROBLEM LINK</a>
+<hr>
+<br>
+Unique Paths :A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).
+
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
+<br>
+How many possible unique paths are there?
+Above is a 7 x 3 grid. How many possible unique paths are there?
+<br>
+Example 1:
+
+Input: m = 3, n = 2
+Output: 3
+Explanation:
+From the top-left corner, there are a total of 3 ways to reach the bottom-right corner:
+1. Right -> Right -> Down
+2. Right -> Down -> Right
+3. Down -> Right -> Right
+Example 2:
+
+Input: m = 7, n = 3
+Output: 28
+ 
+Constraints:
+
+1 <= m, n <= 100
+It's guaranteed that the answer will be less than or equal to 2 * 10 ^ 9.
+<a href="https://leetcode.com/problems/unique-paths/">Problem Link</a>
+<hr>
+<br>
+Unique Path2 :A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).
+
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
+
+Now consider if some obstacles are added to the grids. How many unique paths would there be?
+
+An obstacle and empty space is marked as 1 and 0 respectively in the grid.
+
+Note: m and n will be at most 100.
+
+Example 1:
+
+Input:
+[
+  [0,0,0],
+  [0,1,0],
+  [0,0,0]
+]
+Output: 2
+Explanation:
+There is one obstacle in the middle of the 3x3 grid above.
+There are two ways to reach the bottom-right corner:
+1. Right -> Right -> Down -> Down
+2. Down -> Down -> Right -> Right
+<a href="https://leetcode.com/problems/unique-paths-ii/">Problem Link</a>
