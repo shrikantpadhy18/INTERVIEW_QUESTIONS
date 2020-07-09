@@ -203,11 +203,11 @@ Note:
 
 All inputs will be in lowercase.
 The order of your output does not matter.
-<a href="https://leetcode.com/problems/group-anagrams/"> PROBLEM_LINK/a>
+<a href="https://leetcode.com/problems/group-anagrams/"> PROBLEM_LINK</a>
 
 <hr>
 <br>
-Problem:Island Perimeter
+Problem: Island Perimeter
 
 
 You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.
