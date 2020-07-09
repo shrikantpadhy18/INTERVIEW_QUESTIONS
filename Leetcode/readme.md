@@ -185,3 +185,22 @@ Follow up:
 Could you do this in one pass?
 <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">PROBLEM_LINK</a>
 
+<br>
+<hr>
+
+Given an array of strings, group anagrams together.
+
+Example:
+
+Input: ["eat", "tea", "tan", "ate", "nat", "bat"],
+Output:
+[
+  ["ate","eat","tea"],
+  ["nat","tan"],
+  ["bat"]
+]
+Note:
+
+All inputs will be in lowercase.
+The order of your output does not matter.
+<a href="https://leetcode.com/problems/group-anagrams/"> PROBLEM_LINK/a>
