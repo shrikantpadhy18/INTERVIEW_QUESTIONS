@@ -266,3 +266,11 @@ Each element in the array represents your maximum jump length at that position.
 Determine if you are able to reach the last index.
 
 <a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/">PROBLEM_LINK</a>
+<hr>
+<br>
+PROBLEM:Maximum Width of Binary Tree
+
+Given a binary tree, write a function to get the maximum width of the given tree. The width of a tree is the maximum width among all levels. The binary tree has the same structure as a full binary tree, but some nodes are null.
+
+The width of one level is defined as the length between the end-nodes (the leftmost and right most non-null nodes in the level, where the null nodes between the end-nodes are also counted into the length calculation.
+<a href="https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/">PROBLEM LINK</a>
