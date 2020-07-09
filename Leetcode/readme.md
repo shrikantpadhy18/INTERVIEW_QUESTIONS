@@ -255,3 +255,14 @@ Output: -1
 Note:
 You may assume that you have an infinite number of each kind of coin.
 <a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/">PROBLEM_LINK</a>
+
+<br>
+<hr>
+Problem: Jump Game
+Given an array of non-negative integers, you are initially positioned at the first index of the array.
+
+Each element in the array represents your maximum jump length at that position.
+
+Determine if you are able to reach the last index.
+
+<a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/">PROBLEM_LINK</a>
