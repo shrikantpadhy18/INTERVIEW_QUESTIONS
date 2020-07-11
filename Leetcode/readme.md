@@ -274,3 +274,20 @@ Given a binary tree, write a function to get the maximum width of the given tree
 
 The width of one level is defined as the length between the end-nodes (the leftmost and right most non-null nodes in the level, where the null nodes between the end-nodes are also counted into the length calculation.
 <a href="https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/">PROBLEM LINK</a>
+<br>
+<hr>
+PROBLEM:
+Given a binary tree, find its minimum depth.
+
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+
+Note: A leaf is a node with no children.
+Given binary tree [3,9,20,null,null,15,7],
+
+    3
+   / \
+  9  20
+    /  \
+   15   7
+return its minimum depth = 2.
+<a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">PROBLEM LINK</a>
